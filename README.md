@@ -2,7 +2,7 @@
 
 I'm a 2nd year student pursuing Bachelor of Technology in Computer Science and Engineering 🎓 from Kalyani Government Engineering College(KGEC) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development and Computer Vision and working on my Data Structures and Algorithms skills 🤓.
 
-  - 🔭 I’m currently working on my portfolio website and some vanilla  javascript projects
+  - 🔭 I’m currently working on my portfolio website and some vanilla javascript projects
   - 🌱 I’m currently learning Javascript and React
   - 🤔 I’m looking for help with full stack development
   - 💬 Ask me about C/C++, HTML, CSS
@@ -16,7 +16,24 @@ I'm a 2nd year student pursuing Bachelor of Technology in Computer Science and E
 
 ## Connect with me: 
 
-<img align="center" alt = "animeshbhakat.tk" width="40px" src = "https://avatars.githubusercontent.com/u/60314168?s=60&v=4" />
+<p align = "center">
+  <a href ="https://twitter.com/animesh__bhakat">
+    <img src = "https://img.shields.io/twitter/follow/animesh__bhakat?label=Twitter&logo=twitter&style=for-the-badge"/>
+  </a>
+  <a href ="https://www.facebook.com/animesh.bhakat1024">
+    <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href ="https://www.instagram.com/animesh_bhakat">
+    <img src = "https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/animesh-bhakat-243368191">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href ="mailto: bhakat.animesh1024@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## Languages and Tools:
 <p align="center">

@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Animesh
+# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Animesh. 
+
 
 I'm a 2nd year student pursuing Bachelor of Technology in Computer Science and Engineering 🎓 from Kalyani Government Engineering College(KGEC) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development and Computer Vision and working on my Data Structures and Algorithms skills 🤓.
 

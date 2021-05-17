@@ -52,17 +52,13 @@ I'm a 2nd year student pursuing Bachelor of Technology in Computer Science and E
 <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-
-
 <br />
 <br />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=animeshbhakat&show_icons=true&include_all_commits=true&theme=radical" alt="Animesh's github stats" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshbhakat&show_icons=true&include_all_commits=true&theme=radical" alt="Animesh's github stats" />
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=animeshbhakat&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshbhakat&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center"> 

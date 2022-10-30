@@ -6,8 +6,8 @@ I'm a final year undergraduate student pursuing Bachelor of Technology in Comput
   - 🔭 I’m currently working on my portfolio website and some vanilla javascript projects
   - 🌱 I’m currently learning Javascript and React
   - 🤔 I’m looking for help with full stack development
-  - 💬 Ask me about C/C++, HTML, CSS
-  - 🥅 2021 Goals: Contribute to Open Source projects
+  - 💬 Ask me about C/C++, Java, HTML, CSS
+  - 🥅 2022 Goals: Contribute to Open Source projects
   - ⚡ Fun fact: I love to play Guitar
 
   <!--- 👯 I’m looking to collaborate on ... -->

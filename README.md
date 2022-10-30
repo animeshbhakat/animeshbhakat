@@ -27,10 +27,10 @@ I'm a final year undergraduate student pursuing Bachelor of Technology in Comput
   <a href ="https://www.instagram.com/animesh_bhakat">
     <img src = "https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href ="https://www.linkedin.com/in/animesh-bhakat-243368191">
+  <a href ="https://www.linkedin.com/in/animeshbhakat/">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href ="mailto: bhakat.animesh1024@gmail.com">
+  <a href ="mailto: contact.animeshbhakat@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

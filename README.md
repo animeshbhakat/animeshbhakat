@@ -1,7 +1,7 @@
 # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Animesh. 
 
 
-I'm a pre-final year undergraduate student pursuing Bachelor of Technology in Computer Science and Engineering 🎓 from Kalyani Government Engineering College(KGEC) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development and Computer Vision and working on my Data Structures and Algorithms skills 🤓.
+I'm a final year undergraduate student pursuing Bachelor of Technology in Computer Science and Engineering 🎓 from Kalyani Government Engineering College(KGEC) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development and Computer Vision and working on my Data Structures and Algorithms skills 🤓.
 
   - 🔭 I’m currently working on my portfolio website and some vanilla javascript projects
   - 🌱 I’m currently learning Javascript and React
@@ -27,10 +27,10 @@ I'm a pre-final year undergraduate student pursuing Bachelor of Technology in Co
   <a href ="https://www.instagram.com/animesh_bhakat">
     <img src = "https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href ="https://www.linkedin.com/in/animesh-bhakat-243368191">
+  <a href ="https://www.linkedin.com/in/animeshbhakat/">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href ="mailto: bhakat.animesh1024@gmail.com">
+  <a href ="mailto: contact.animeshbhakat@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

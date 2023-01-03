@@ -4,10 +4,10 @@
 I'm a final year undergraduate student pursuing Bachelor of Technology in Computer Science and Engineering 🎓 from Kalyani Government Engineering College(KGEC) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development and Computer Vision and working on my Data Structures and Algorithms skills 🤓.
 
   - 🔭 I’m currently working on my portfolio website and some vanilla javascript projects
-  - 🌱 I’m currently learning Javascript and React
+  - 🌱 I’m currently learning MongoDB, Express, React and Node
   - 🤔 I’m looking for help with full stack development
-  - 💬 Ask me about C/C++, Java, HTML, CSS
-  - 🥅 2022 Goals: Contribute to Open Source projects
+  - 💬 Ask me about C/C++, Java, HTML, CSS, Javascript
+  - 🥅 2023 Goals: Contribute to Open Source projects
   - ⚡ Fun fact: I love to play Guitar
 
   <!--- 👯 I’m looking to collaborate on ... -->
